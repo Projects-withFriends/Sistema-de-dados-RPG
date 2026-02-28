@@ -4,20 +4,20 @@ Better experience for your RPGs games, This project aims to make using dice in R
 
 ## 👾Technologies
 ---
-. Python
+- Python
 
 ## 🚀Features
 ---
--
+
 
 ## 📍The Process
 ---
--
+
 
 ## 🚦Running the Project
 ---
--
+
 
 ## 🖥️Preview
 ---
--
+
