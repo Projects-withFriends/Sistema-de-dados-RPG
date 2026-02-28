@@ -14,7 +14,7 @@ Better experience for your RPGs games, This project aims to make using dice in R
 
 
 ## 🚦Running the Project
---
+
 
 
 ## 🖥️Preview
